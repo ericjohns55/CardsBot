@@ -55,3 +55,7 @@ Creates a predefined game of dominoes with 13 rounds
 
 ### /shanghai
 Creates a predefined game of Shanghai, where the next hand requirements are announced after each round
+
+
+## Requirements
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
